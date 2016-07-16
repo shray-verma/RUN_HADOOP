@@ -1,0 +1,6 @@
+<configuration>
+<property>
+<name>mapred.job.tracker</name>
+<value>hdfs://192.168.122.89:9002</value>
+</property>
+</configuration>
